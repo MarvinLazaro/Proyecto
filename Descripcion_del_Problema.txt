@@ -1,0 +1,5 @@
+**Descripción del Problema**
+
+Es una aseguradora la cual ejecuta sus cotizaciones de forma manual lo cual dificulta la obtención de clientes o renovaciones de seguros, ya que solo pueden calcular un numero pequeño de cotizaciones por día.
+
+Entre más datos se le solicite al cliente más tiempo toma realizar las cotizaciones y esto puede ocasionar que los clientes que se encuentran en linea de espera pierdan la paciencia por lo que terminen saliendo de la aseguradora sin su cotización.

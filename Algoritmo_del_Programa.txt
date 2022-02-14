@@ -1,0 +1,21 @@
+**Algoritmo del Programa**
+
+- Colocar un plan base, en este caso Q2000.
+- Solicitar al cliente su Nombre.
+- Solicitar al cliente su Edad.
+- Validar si es mayor de Edad para continuar con la cotización.
+- Consultar al cliente si tiene propiedades a su nombre.
+- Si tiene propiedades consultar cuantas tiene.
+- Solicitar al cliente su salario en Quetzales.
+- Consular si el cliente está casado/a.
+- Si está casado/a solicitar la edad del conjugue.
+- Consultar al cliente si tiene hijos.
+- Si tiene hijos consultar cuantos tiene.
+- Calcular los recargos del cliente según la tabla de recargos vigente por la Edad del cliente sobre el plan base.
+- Si tiene conjugue se debe calcular los recargos según la tabla de recargos vigente por la Edad del conjugue sobre el plan base.
+- Si tiene hijos se debe calcular los recargos según tabla de recargos vigente por la cantidad de hijos sobre el plan base.
+- Calcular el recargo del salario según tabla de recargos vigente sobre el salario actual.
+- Si tiene propiedades se debe calcular los recargos según tabla de recargos vigente por la cantidad de propiedades sobre la cotización total.
+- Mostrar en pantalla el nombre del cliente.
+- Mostrar en pantalla el recargo total.
+- Mostrar en pantalla el precio final de la cotización.
